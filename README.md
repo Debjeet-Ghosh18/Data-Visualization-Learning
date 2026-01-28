@@ -1,10 +1,10 @@
-# 📊 Data Visualization for Data Science
+#  Data Visualization for Data Science
 
 This repository documents my **learning journey in Data Visualization**, an essential skill for every Data Scientist.  
 It covers both **foundations** and **practical tools** used to turn data into meaningful insights.
 
 
-## 🚀 Why Data Visualization?
+##  Why Data Visualization?
 Data visualization helps:
 - Understand complex data quickly
 - Discover patterns, trends, and outliers
@@ -14,16 +14,16 @@ Data visualization helps:
 It is a **must-have skill** in Data Science and Analytics.
 
 
-## 📚 What I’m Learning
+##  What I’m Learning
 
-### 🔹 Basics of Matplotlib
+###  Basics of Matplotlib
 - Understanding figures and axes
 - Line plots, bar charts, scatter plots
 - Titles, labels, legends, and styling
 - Subplots and layout control
 
 
-> My first step into visual magic ✨
+> My first step into visual magic 
 
 ### 🔹 Stylish Visualizations with Seaborn
 - Statistical plots made easy
