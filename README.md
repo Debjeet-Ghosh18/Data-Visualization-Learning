@@ -25,7 +25,7 @@ It is a **must-have skill** in Data Science and Analytics.
 
 > My first step into visual magic 
 
-### 🔹 Stylish Visualizations with Seaborn
+###  Stylish Visualizations with Seaborn
 - Statistical plots made easy
 - Distribution plots, box plots, heatmaps
 - Built-in themes and color palettes
@@ -53,7 +53,7 @@ It is a **must-have skill** in Data Science and Analytics.
 - Tricks to impress your data team 
 
 
-## 🛠 Tools & Libraries Used
+##  Tools & Libraries Used
 - Python
 - Matplotlib
 - Seaborn
