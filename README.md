@@ -32,25 +32,25 @@ It is a **must-have skill** in Data Science and Analytics.
 - Working with real datasets
 
 
-### 🔹 Interactive Graphs with Plotly
+### Interactive Graphs with Plotly
 - Interactive charts and dashboards
 - Hover effects and zooming
 - Line, bar, scatter, and 3D plots
 - Creating web-ready visualizations
 
 
-### 🔹 Real-World Mini Project
+### Real-World Mini Project
 - Applying all tools together
 - Data cleaning and exploration
 - Insight-driven visual storytelling
 - End-to-end visualization workflow
 
 
-## 💡 Tips, Tricks & Shortcuts
+## Tips, Tricks & Shortcuts
 - Matplotlib best practices
 - Common mistakes and how to avoid them
 - Visualization shortcuts to save time
-- Tricks to impress your data team 😉
+- Tricks to impress your data team 
 
 
 ## 🛠 Tools & Libraries Used
