@@ -45,14 +45,6 @@ It is a **must-have skill** in Data Science and Analytics.
 - Insight-driven visual storytelling
 - End-to-end visualization workflow
 
-
-## Tips, Tricks & Shortcuts
-- Matplotlib best practices
-- Common mistakes and how to avoid them
-- Visualization shortcuts to save time
-- Tricks to impress your data team 
-
-
 ##  Tools & Libraries Used
 - Python
 - Matplotlib
